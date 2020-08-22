@@ -10,4 +10,5 @@
 - ⚡ Fun fact: I love climbing, snowboarding, and working on my MX-5 NA
 
 ![](octocat_animation.png)
+![](octocat_scientist.png)
 
