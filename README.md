@@ -11,3 +11,7 @@
 
 ![](octocat_animation.png)
 
+[![Spotify](https://novatorem.jackeallen.vercel.app//api/spotify-playing)](https://open.spotify.com/user/jallen1998)
+
+
+
