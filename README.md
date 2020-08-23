@@ -9,7 +9,20 @@
 - 👯 I’m looking to collaborate on: Open source scientific software
 - ⚡ Fun fact: I love climbing, snowboarding, and working on my MX-5 NA
 
-![Octocat Jack](octocat_animation.gif)
 
+<table border=0 width="100%" > 
+  <tr>
+  <td  border=0 width="20%">
+      
+&nbsp; <br> <img align="left" width="150" height="150" src="https://github.com/JackEAllen/JackEAllen/blob/master/octocat_animation.gif?raw=true">
 
-[![Spotify](https://novatorem.jackeallen.vercel.app/api/spotify-playing)](https://open.spotify.com/user/jallen1998)
+  </td>
+  <td  border=0 width="80%">
+  
+<p align="center">Check out my Spotify!</p>
+
+<br><p align="center">
+  [![Spotify](https://novatorem.jackeallen.vercel.app/api/spotify-playing)](https://open.spotify.com/user/jallen1998)
+</p>
+  </td>
+  </table>
