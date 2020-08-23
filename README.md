@@ -10,6 +10,6 @@
 - 🔭 I’m currently working on: [The Autoreduction Project](https://github.com/ISISScientificComputing/autoreduce) ...from a distance
 - 🌱 I’m currently learning: More than I can remember
 - 👯 I’m looking to collaborate on: Open source scientific software
-- ⚡ Fun fact: I love climbing, snowboarding, and working on my MX-5 NA 🧗‍🏂 🏎
+- ⚡ Fun fact: I love climbing, hiking, snowboarding, and working on my MX-5 NA 🧗‍🏂 🏎
 
 <img align="left" alt="JackEAllen's Github Stats" src="https://github-readme-stats.jackeallen.vercel.app/api?username=JackEAllen&count_private=true&show_icons=true&include_all_commits&hide=stars&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
