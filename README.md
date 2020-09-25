@@ -12,4 +12,4 @@
 - 👯 I’m looking to collaborate on: Open source scientific software
 - ⚡ Fun fact: I love climbing, hiking, snowboarding, and working on my MX-5 NA 🧗‍🏂 🏎
 
-<img align="left" alt="JackEAllen's Github Stats" src="https://github-readme-stats.jackeallen.vercel.app/api?username=JackEAllen&count_private=true&show_icons=true&include_all_commits&hide=stars&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
+<img align="left" alt="JackEAllen's Github Stats" src="https://github-readme-stats.jackeallen.vercel.app/api?username=JackEAllen&count_private=true&show_icons=true&include_all_commits&hide=stars&hide_border=true" />
