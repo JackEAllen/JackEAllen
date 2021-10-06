@@ -7,7 +7,7 @@
 ## Here's a little bit of information about me 🧙: <a href="http://astrojack.co.uk/"><img align="left" src="https://github.com/JackEAllen/JackEAllen/blob/master/octocat_animation.gif?raw=true"></a>
 ### Now playing on Spotify
 [![Spotify](https://novatorem.jackeallen.vercel.app/api/spotify-playing)](https://open.spotify.com/user/jallen1998)
-- 🔭 I’m currently working on: The IBEX Project within the Experimental Controls group ISIS | STFC | UKRI ...from a distance
+- 🔭 I’m currently working on: The IBEX Project within the Experimental Controls group, ISIS Neutron and Muon Source, STFC ...from a distance
 - 🌱 I’m currently learning: As much as I can each and every day
 - 👯 I’m looking to collaborate on: Open source scientific software
 - ⚡ Fun fact: I love climbing, hiking, snowboarding, and working on my MX-5 NA 🧗‍🏂 🏎
