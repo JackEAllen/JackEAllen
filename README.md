@@ -14,3 +14,6 @@
 
 <!-- <img align="left" alt="JackEAllen's Github Stats" src="https://github-readme-stats.jackeallen.vercel.app/api?username=JackEAllen&count_private=true&show_icons=true&include_all_commits&hide=stars&hide_border=true" />
  -->
+<img align="left" alt="JackEAllen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jackeallen&count_private=true&show_icons=true&include_all_commits&hide=stars&hide_border=true"/>
+
+
