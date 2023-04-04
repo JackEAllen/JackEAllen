@@ -21,5 +21,3 @@
 - 🧪 I act as a STEM Ambassador, regularly taking part in STEM outreach events to inspire the next generation into the wonderful world of programming.
 - ⚡ I absolutley love climbing, hiking, snowboarding, and working on my MX-5 NA 🧗‍🏂 🏎
 
-<img align="left" alt="JackEAllen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jackeallen&count_private=true&show_icons=true&include_all_commits&hide=stars&hide_border=true"/>
-
