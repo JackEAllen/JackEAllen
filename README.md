@@ -16,7 +16,7 @@
 &nbsp;
 - 🏠 I live in the South Oxfordshire countryside
 - 🔭 I'm a Scientific Software Engineer working on the [Mantid Imaging Project](https://github.com/mantidproject) and scientific instruments within the Scientific Software Group at the [ISIS Neutron and Muon Source](https://www.isis.stfc.ac.uk/Pages/home.aspx), [STFC](https://stfc.ukri.org/), [UKRI](https://www.ukri.org/)
-- 🌱 I’m currently learning about [Neutron Tomographic Reconstruction](https://mantidproject.github.io/mantidimaging/user_guide/gui/recon_window.html#reconstruction-window)
+- 🌱 I’m currently learning about [Neutron Engineering Diffraction](https://docs.mantidproject.org/nightly/interfaces/diffraction/Engineering%20Diffraction.html)
 - 👯 I’m looking to collaborate on Open source scientific software
 - 🧪 I act as a STEM Ambassador, regularly taking part in STEM outreach events to inspire the next generation into the wonderful world of programming.
 - ⚡ I absolutley love climbing, hiking, snowboarding, and working on my MX-5 NA 🧗‍🏂 🏎
