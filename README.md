@@ -19,5 +19,5 @@
 - 🌱 I’m currently learning about [Neutron Engineering Diffraction](https://docs.mantidproject.org/nightly/interfaces/diffraction/Engineering%20Diffraction.html)
 - 👯 I’m looking to collaborate on Open source scientific software
 - 🧪 I act as a STEM Ambassador, regularly taking part in STEM outreach events to inspire the next generation into the wonderful world of programming.
-- ⚡ I absolutley love climbing, hiking, snowboarding, and working on my MX-5 NA 🧗‍🏂 🏎
+- ⚡ I absolutely love climbing, hiking, snowboarding, and working on my MX-5 NA 🧗‍🏂 🏎
 
